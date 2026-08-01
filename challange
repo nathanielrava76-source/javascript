@@ -1,0 +1,12 @@
+alert("selamat datang")
+
+let nama = prompt ("masukan nama anda:");
+let kelas = prompt("masukan kelas anda:");
+
+
+console.log("=========================");
+console.log("BIODATA SISWA");
+console.log("nama : "+ nama );
+console.log("kelas : " + kelas);
+console.log("selamat belajar javasekrip!!");
+console.log("=========================");
