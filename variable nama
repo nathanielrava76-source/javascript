@@ -1,0 +1,8 @@
+let nama = "nathaniel gtg";
+let kelas = "16";
+let jurusan = "PPLG";
+let umur ="16";
+console.log(nama);
+console.log(kelas);
+console.log(jurusan);
+console.log(umur);
