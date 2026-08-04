@@ -1,0 +1,8 @@
+console.log(true && false); // false
+console.log(true || false); // true
+console.log(!false); // true
+
+// Contoh tambahan
+console.log(true && true); // true
+console.log(false || false); // false
+console.log(!true); // false
