@@ -1,0 +1,18 @@
+let nama="nathaniel";
+let kelas = "XI PPLG 2";
+let umur = "16";
+let nilaimatematika =98;
+let nilaiindonesia = 92;
+let nilaiinformatika = 90;
+let jumlah=nilaimatematika+nilaiindonesia+nilaiinformatika;
+let rata=jumlah/3;
+
+console.log("============================");
+console.log("DATA SISWA");
+console.log("============================");
+console.log("NAMA      :" + nama)
+console.log("KELAS     :" + kelas);
+console.log("UMUR      :" + umur);
+console.log("JUMLAH    :" + jumlah);
+console.log("Rata-rata :" + rata);
+console.log("============================");
