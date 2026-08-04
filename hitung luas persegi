@@ -1,0 +1,4 @@
+let panjang = 15;
+let lebar = 12;
+let luas = panjang * lebar;
+console.log("Luas = " + luas);
