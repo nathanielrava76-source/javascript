@@ -1,0 +1,7 @@
+let nilai1 = 85;
+let nilai2 = 90;
+let nilai3 = 78;
+let jumlah = nilai1 + nilai2 + nilai3;
+let rata = jumlah / 3;
+console.log(jumlah);
+console.log(rata);
